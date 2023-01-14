@@ -1,4 +1,4 @@
-# Dice.Game
+# Dice-Game
 HTML,CSS and JS create a Dice game.
 # Rules:
  *	The game has 2 players, playing in rounds.
